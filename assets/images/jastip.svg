@@ -1,0 +1,11 @@
+<svg width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="26" cy="26" r="26" fill="#CBF1DC"/>
+<ellipse cx="26" cy="43" rx="15" ry="1" fill="#074D26" fill-opacity="0.2"/>
+<path d="M15.5 11H36.5C37.3284 11 38 11.6716 38 12.5V39.5C38 40.3284 37.3284 41 36.5 41H15.5C14.6716 41 14 40.3284 14 39.5V12.5C14 11.6716 14.6716 11 15.5 11Z" fill="#FEF4D9" stroke="#C8712C" stroke-width="3" stroke-linejoin="round"/>
+<path d="M28.25 18.5H19.25" stroke="#E96652" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28.25 26H19.25" stroke="#E96652" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28.25 33.5H19.25" stroke="#E96652" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.75 20C31.9216 20 31.25 19.3284 31.25 18.5C31.25 17.6716 31.9216 17 32.75 17C33.5784 17 34.25 17.6716 34.25 18.5C34.25 19.3284 33.5784 20 32.75 20Z" fill="#E96652"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.75 27.5C31.9216 27.5 31.25 26.8284 31.25 26C31.25 25.1716 31.9216 24.5 32.75 24.5C33.5784 24.5 34.25 25.1716 34.25 26C34.25 26.8284 33.5784 27.5 32.75 27.5Z" fill="#E96652"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.75 35C31.9216 35 31.25 34.3284 31.25 33.5C31.25 32.6716 31.9216 32 32.75 32C33.5784 32 34.25 32.6716 34.25 33.5C34.25 34.3284 33.5784 35 32.75 35Z" fill="#E96652"/>
+</svg>

@@ -1,0 +1,6 @@
+package com.mycompany.grabcloneheru
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
